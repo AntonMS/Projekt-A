@@ -1,0 +1,4 @@
+Anton Becker MS15
+Projekt A	
+Puzzle
+Meine Idee ist ein Puzzle aus geometrischen Figuren. Die Figuren sind in Stücke zerlegt. Mit einem gedrückten Mausklick auf ein Puzzlestück, kann man es zur richtigen Position hinschieben. Wenn man alle Stücke in die richtige Position schiebt, ist das jeweilige Level geschafft und man bekommt eine neue Figur zum Puzzeln.
