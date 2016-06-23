@@ -12,3 +12,9 @@ Leider haben Sie wieder die formalen Vorgaben aus der Aufgabenbeschreibung ignor
 Das gilt entsprechend für die Bereiche Interaktivität und Webbasierung Ihrer Anwendung.
 
 Bezüglich des aktuellen Stands Ihres Projekts besteht mein Feedback also aus dem Hinweis, dass Sie bitte die Aufgabenstellung und seitdem hinzugekommene Hinweise zur Bearbeitung aufmerksam lesen und umsetzen.
+
+===================================
+=== Feedback Alpers, 2016-06-23 ===
+===================================
+
+Leider keine Änderungen seit dem letzten Feedback. Bitte beachten Sie, dass eine Bewertung entsprechend des aktuellen Stand erfolgen muss, wenn Sie weiterhin nicht im geforderten Umfang am Projekt arbeiten. Zur Erinnerung: Projektarbeit bedeutet, dass Sie jede Woche mindestens einmal mehrere Stunden am Projekt arbeiten.
